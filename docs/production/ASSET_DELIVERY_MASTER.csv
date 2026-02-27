@@ -1,0 +1,96 @@
+batch,category,asset_id,asset_name,details,spec,resolution,format,transparent_bg,metadata_json,quantity,priority,status
+01,style,style_ref_001,Style Reference Sheet,Imagem mestra de estilo para todo o projeto,"2D digital illustration, cyberpunk dystopia, dark neon",1920x1080,PNG,no,no,1,P0,PENDING
+02,character_protagonist,protagonist_female_idle_4dir,Protagonista female idle,4 frames x 4 direções,spritesheet + atlas json,64x64/frame,PNG,yes,yes,16,P0,PENDING
+02,character_protagonist,protagonist_female_walk_4dir,Protagonista female walk,8 frames x 4 direções,spritesheet + atlas json,64x64/frame,PNG,yes,yes,32,P0,PENDING
+02,character_protagonist,protagonist_female_run_4dir,Protagonista female run,6 frames x 4 direções,spritesheet + atlas json,64x64/frame,PNG,yes,yes,24,P0,PENDING
+02,character_protagonist,protagonist_female_sneak_4dir,Protagonista female sneak,6 frames x 4 direções,spritesheet + atlas json,64x64/frame,PNG,yes,yes,24,P0,PENDING
+02,character_protagonist,protagonist_female_combat_idle,Protagonista female combat idle,4 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,4,P0,PENDING
+02,character_protagonist,protagonist_female_attack_basic,Protagonista female attack,6 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,6,P0,PENDING
+02,character_protagonist,protagonist_female_skill_cast,Protagonista female skill cast,6 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,6,P0,PENDING
+02,character_protagonist,protagonist_female_take_damage,Protagonista female damage,3 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,3,P0,PENDING
+02,character_protagonist,protagonist_female_death,Protagonista female death,8 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,8,P0,PENDING
+02,character_protagonist,protagonist_female_portraits,Protagonista female portraits,"neutral,happy,angry,scared,determined,shocked,sad",individual files,256x256,PNG,yes,no,7,P1,PENDING
+02,character_protagonist,protagonist_male_idle_4dir,Protagonista male idle,4 frames x 4 direções,spritesheet + atlas json,64x64/frame,PNG,yes,yes,16,P0,PENDING
+02,character_protagonist,protagonist_male_walk_4dir,Protagonista male walk,8 frames x 4 direções,spritesheet + atlas json,64x64/frame,PNG,yes,yes,32,P0,PENDING
+02,character_protagonist,protagonist_male_run_4dir,Protagonista male run,6 frames x 4 direções,spritesheet + atlas json,64x64/frame,PNG,yes,yes,24,P0,PENDING
+02,character_protagonist,protagonist_male_sneak_4dir,Protagonista male sneak,6 frames x 4 direções,spritesheet + atlas json,64x64/frame,PNG,yes,yes,24,P0,PENDING
+02,character_protagonist,protagonist_male_combat_idle,Protagonista male combat idle,4 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,4,P0,PENDING
+02,character_protagonist,protagonist_male_attack_basic,Protagonista male attack,6 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,6,P0,PENDING
+02,character_protagonist,protagonist_male_skill_cast,Protagonista male skill cast,6 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,6,P0,PENDING
+02,character_protagonist,protagonist_male_take_damage,Protagonista male damage,3 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,3,P0,PENDING
+02,character_protagonist,protagonist_male_death,Protagonista male death,8 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,8,P0,PENDING
+02,character_protagonist,protagonist_male_portraits,Protagonista male portraits,"neutral,happy,angry,scared,determined,shocked,sad",individual files,256x256,PNG,yes,no,7,P1,PENDING
+03,character_npc,sable_set,Sable full set,"idle_4dir,walk_4dir,combat_idle,attack,take_damage,death + portraits",spritesheets + portraits,64/128/256,PNG,yes,yes,1,P1,PENDING
+03,character_npc,vela_dorn_set,Vela Dorn full set,"idle_front,combat_idle,attack_ranged_tech,phase2_transform,death_dramatic + portraits",spritesheets + portraits,128/256,PNG,yes,yes,1,P1,PENDING
+03,character_npc,kael_set,Kael full set,"idle_4dir,walk_4dir,combat_idle,attack_brutal,take_damage_gore,death_visceral,transformation + portraits",spritesheets + portraits,64/128/256,PNG,yes,yes,1,P1,PENDING
+03,character_npc,profeta_liss_set,Profeta Liss full set,"idle_ethereal,ritual_chant,combat_idle,ethereal_attack,ascension_death + portraits",spritesheets + portraits,128/256,PNG,yes,yes,1,P1,PENDING
+03,character_enemy,enemy_guarda_conselho_set,Guarda Conselho,"patrol_idle,combat_idle,attack_ranged,take_damage,death_normal,death_gore",spritesheet + atlas json,128x128/frame,PNG,yes,yes,1,P1,PENDING
+03,character_enemy,enemy_fanatico_ordem_set,Fanático Ordem,"idle_swaying,charge_frenzy,attack_slash,death_ritual_collapse",spritesheet + atlas json,128x128/frame,PNG,yes,yes,1,P1,PENDING
+03,character_enemy,enemy_seguranca_mercenario_set,Segurança Mercenário,"idle,combat_stance,heavy_attack,take_damage,death",spritesheet + atlas json,128x128/frame,PNG,yes,yes,1,P1,PENDING
+03,character_enemy,enemy_drone_seguranca_set,Drone Segurança,"hover_idle,scan_rotate,attack_laser_charge,attack_laser_fire,destruction_explosion",spritesheet + atlas json,128x128/frame,PNG,yes,yes,1,P1,PENDING
+03,character_enemy,enemy_mutante_subsolo_set,Mutante Subsolo,"shamble_idle,rage_charge,attack_bite,attack_slash_claw,death_dissolve",spritesheet + atlas json,128x128/frame,PNG,yes,yes,1,P1,PENDING
+03,character_enemy,enemy_chefe_nucleo_set,Chefe Núcleo Corrompido,"idle_pulsing_horror,phase1_cable_attack,phase2_split_transform,phase3_full_rage,death_data_collapse",spritesheet + atlas json,256x256/frame,PNG,yes,yes,1,P0,PENDING
+04,background,bg_distrito_central_dia,Distrito Central Dia,4 layers parallax,layer_1_far..layer_4_foreground,1920x1080 (and 2x),PNG,no,no,4,P1,PENDING
+04,background,bg_distrito_central_noite,Distrito Central Noite,4 layers parallax,layer_1_far..layer_4_foreground,1920x1080 (and 2x),PNG,no,no,4,P2,PENDING
+04,background,bg_bairro_industrial,Bairro Industrial,5 layers parallax,inclui gore_detail,1920x1080 (and 2x),PNG,no,no,5,P0,PENDING
+04,background,bg_subsolo_abandonado,Subsolo Abandonado,5 layers parallax,inclui gore_detail,1920x1080 (and 2x),PNG,no,no,5,P0,PENDING
+04,background,bg_zona_alta,Zona Alta,4 layers parallax,layer_1_far..layer_4_foreground,1920x1080 (and 2x),PNG,no,no,4,P2,PENDING
+04,background,bg_mercado_noturno,Mercado Noturno,5 layers parallax,inclui atmosphere layer,1920x1080 (and 2x),PNG,no,no,5,P1,PENDING
+04,background_interior,indoor_sala_interrogatorio,Sala Interrogatório,Interior ambiente,ilustração de cena,1920x1080,PNG,no,no,1,P1,PENDING
+04,background_interior,indoor_laboratorio_experimentos,Laboratório Experimentos,Interior ambiente,ilustração de cena,1920x1080,PNG,no,no,1,P0,PENDING
+04,background_interior,indoor_qg_subterraneos,QG Subterrâneos,Interior ambiente,ilustração de cena,1920x1080,PNG,no,no,1,P1,PENDING
+04,background_interior,indoor_torre_conselho,Torre Conselho Interior,Interior ambiente,ilustração de cena,1920x1080,PNG,no,no,1,P1,PENDING
+04,background_interior,indoor_nucleo_cupula,Núcleo Cúpula,Interior boss room,ilustração de cena,1920x1080,PNG,no,no,1,P0,PENDING
+04,background_interior,indoor_templo_ordem_vidro,Templo Ordem Vidro,Interior ambiente,ilustração de cena,1920x1080,PNG,no,no,1,P2,PENDING
+05,ui_hud,ui_hp_bar_frame,HP Bar Frame,HUD bar,dark glass + neon,800x64,PNG,yes,no,1,P0,PENDING
+05,ui_hud,ui_energy_bar_frame,Energy Bar Frame,HUD bar,dark glass + neon,800x64,PNG,yes,no,1,P0,PENDING
+05,ui_hud,ui_minimap_frame,Minimap Frame,HUD frame,circular cyberpunk,200x200,PNG,yes,no,1,P0,PENDING
+05,ui_hud,ui_quest_tracker,Quest Tracker,HUD panel,slim panel,600x80,PNG,yes,no,1,P0,PENDING
+05,ui_hud,ui_day_night_indicator,Day Night Indicator,HUD mini clock,circular,80x80,PNG,yes,no,1,P1,PENDING
+05,ui_hud,ui_faction_icons_set,Faction Icons Set,Council/Subterraneos/Ordem/Mercadores,flat icon set,64x64 each,PNG,yes,no,4,P1,PENDING
+05,ui_menu,ui_main_menu_background,Main Menu BG,cinematic background,sem elementos de UI,1920x1080,PNG,no,no,1,P1,PENDING
+05,ui_menu,ui_inventory_panel,Inventory Panel,grid 8x5,dark glass style,1920x1080,PNG,yes,no,1,P0,PENDING
+05,ui_menu,ui_skill_tree_background,Skill Tree BG,3 trilhas,circuit constellation,1920x1080,PNG,yes,no,1,P1,PENDING
+05,ui_menu,ui_dialogue_box,Dialogue Box,portrait frame + text area,cyberpunk panel,1920x300,PNG,yes,no,1,P0,PENDING
+05,ui_menu,ui_combat_frame,Combat UI Frame,overlay combate por turnos,split zones,1920x1080,PNG,yes,no,1,P0,PENDING
+06,icons,icons_weapons_set,Weapon Icons,20 ícones,rarity glow border,64x64 each,PNG,yes,no,20,P1,PENDING
+06,icons,icons_armor_set,Armor/Accessory Icons,15 ícones,rarity glow border,64x64 each,PNG,yes,no,15,P1,PENDING
+06,icons,icons_consumables_set,Consumables Icons,25 ícones,rarity glow border,64x64 each,PNG,yes,no,25,P1,PENDING
+06,icons,icons_key_items_set,Key Items Icons,10 ícones,rarity glow border,64x64 each,PNG,yes,no,10,P1,PENDING
+06,icons,icons_electronics_set,Electronics Icons,10 ícones,rarity glow border,64x64 each,PNG,yes,no,10,P1,PENDING
+06,icons_status,status_queimadura,Status Queimadura,status icon,flame+gear,48x48,PNG,yes,no,1,P1,PENDING
+06,icons_status,status_choque,Status Choque,status icon,lightning+circuit,48x48,PNG,yes,no,1,P1,PENDING
+06,icons_status,status_medo,Status Medo,status icon,fractured skull,48x48,PNG,yes,no,1,P1,PENDING
+06,icons_status,status_confusao,Status Confusão,status icon,spiral static,48x48,PNG,yes,no,1,P1,PENDING
+06,icons_status,status_hackeado,Status Hackeado,status icon,padlock glitch,48x48,PNG,yes,no,1,P1,PENDING
+06,icons_status,status_invisivel,Status Invisível,status icon,fade silhouette,48x48,PNG,yes,no,1,P1,PENDING
+07,vfx,vfx_blood_splatter_small,Blood Splatter Small,6 frames,spritesheet + atlas json,64x64/frame,PNG,yes,yes,6,P1,PENDING
+07,vfx,vfx_blood_splatter_large,Blood Splatter Large,8 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,8,P1,PENDING
+07,vfx,vfx_blood_pool_forming,Blood Pool Forming,8 frames,spritesheet + atlas json,96x96/frame,PNG,yes,yes,8,P1,PENDING
+07,vfx,vfx_electric_discharge,Electric Discharge,8 frames,spritesheet + atlas json,96x96/frame,PNG,yes,yes,8,P1,PENDING
+07,vfx,vfx_fire_burst,Fire Burst,10 frames,spritesheet + atlas json,96x96/frame,PNG,yes,yes,10,P1,PENDING
+07,vfx,vfx_hack_interface,Hack Interface,6 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,6,P0,PENDING
+07,vfx,vfx_critical_hit_flash,Critical Hit Flash,4 frames,spritesheet + atlas json,256x256/frame,PNG,yes,yes,4,P2,PENDING
+07,vfx,vfx_poison_gas,Poison Gas,8 frames,spritesheet + atlas json,96x96/frame,PNG,yes,yes,8,P2,PENDING
+07,vfx,vfx_death_particles,Death Particles,6 frames,spritesheet + atlas json,64x64/frame,PNG,yes,yes,6,P2,PENDING
+07,vfx,vfx_overkill_flash,Overkill Flash,5 frames,spritesheet + atlas json,512x512/frame,PNG,yes,yes,5,P2,PENDING
+07,vfx,vfx_rain_overlay,Rain Overlay,4 loop frames,spritesheet + atlas json,1920x1080/frame,PNG,yes,yes,4,P1,PENDING
+07,vfx,vfx_neon_flicker,Neon Flicker,5 frames,spritesheet + atlas json,128x128/frame,PNG,yes,yes,5,P1,PENDING
+08,cutscene,cutscene_opening_cinematic,Opening Cinematic,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P1,PENDING
+08,cutscene,cutscene_first_crack,First Crack,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P1,PENDING
+08,cutscene,cutscene_execution_scene,Execution Scene,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P2,PENDING
+08,cutscene,cutscene_experiment_revelation,Experiment Revelation,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P2,PENDING
+08,cutscene,cutscene_dome_core_reveal,Dome Core Reveal,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P1,PENDING
+08,cutscene,cutscene_kael_transformation,Kael Transformation,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P2,PENDING
+08,cutscene,cutscene_ending_liberation,Ending Liberation,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P2,PENDING
+08,cutscene,cutscene_ending_authoritarian,Ending Authoritarian,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P2,PENDING
+08,cutscene,cutscene_ending_collapse,Ending Collapse,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P2,PENDING
+08,cutscene,cutscene_ending_secret_zoom_out,Ending Secret Zoom Out,full-screen illustration,painterly high detail,1920x1080,PNG,no,no,1,P2,PENDING
+09,tileset,tileset_central_district,Tileset Central District,atlas com variações,32x32 top-down,512x512 atlas,PNG,yes,no,1,P1,PENDING
+09,tileset,tileset_industrial,Tileset Industrial,atlas com variações,32x32 top-down,512x512 atlas,PNG,yes,no,1,P1,PENDING
+09,tileset,tileset_underground,Tileset Underground,atlas com variações,32x32 top-down,512x512 atlas,PNG,yes,no,1,P0,PENDING
+09,tileset,tileset_elite_zone,Tileset Elite Zone,atlas com variações,32x32 top-down,512x512 atlas,PNG,yes,no,1,P2,PENDING
+09,tileset,tileset_market,Tileset Market,atlas com variações,32x32 top-down,512x512 atlas,PNG,yes,no,1,P1,PENDING
+09,tileset,tileset_interiors_generic,Tileset Interiors Generic,atlas com variações,32x32 top-down,512x512 atlas,PNG,yes,no,1,P0,PENDING
+10,audio,audio_music_pack,Músicas,pacote inicial trilhas,OGG,n/a,OGG,no,no,25,P1,PENDING
+10,audio,audio_sfx_pack,SFX,pacote inicial efeitos,WAV/OGG,n/a,WAV/OGG,no,no,200,P1,PENDING

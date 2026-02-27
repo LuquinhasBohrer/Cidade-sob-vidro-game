@@ -1,0 +1,15 @@
+{
+  "id": "intro_anomalia",
+  "speaker": "Sistema Urbano",
+  "text": "Falha detectada no painel de manutencao da cupula. Unidade tecnica, investigar imediatamente.",
+  "choices": [
+    {
+      "text": "Atender ao chamado",
+      "next": "setor_central"
+    },
+    {
+      "text": "Ignorar por enquanto",
+      "next": "bairro_industrial"
+    }
+  ]
+}

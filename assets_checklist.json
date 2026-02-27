@@ -1,0 +1,11 @@
+{
+  "build_policy": {
+    "release_requires_all_assets_approved": true,
+    "dev_build_allows_generated": true
+  },
+  "prototype_assets": [
+    {"id": "world_placeholder_bg", "status": "GENERATED"},
+    {"id": "player_placeholder_sprite", "status": "GENERATED"},
+    {"id": "ui_interaction_label", "status": "APPROVED"}
+  ]
+}

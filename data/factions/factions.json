@@ -1,0 +1,18 @@
+{
+  "Conselho da Cupula": {
+    "ideology": "Controle e ordem",
+    "base_district": "Zona Alta"
+  },
+  "Subterraneos": {
+    "ideology": "Liberdade radical",
+    "base_district": "Subsolo Abandonado"
+  },
+  "Ordem do Vidro": {
+    "ideology": "Culto mistico",
+    "base_district": "Distrito Central"
+  },
+  "Mercadores Livres": {
+    "ideology": "Lucro pragmatico",
+    "base_district": "Mercado Noturno"
+  }
+}
